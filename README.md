@@ -12,7 +12,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone <your-github-repo-link>
+    git clone https://github.com/sanket560/sanket-mane-ConQt-Filter-Assignment.git
     ```
 
 2. Navigate to the project directory:
